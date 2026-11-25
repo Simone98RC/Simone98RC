@@ -9,7 +9,7 @@
 ## Mi trovi anche su · Find me elsewhere
 
 - 🐘 Mastodon — [@Simone98RC@mastodon.uno](https://mastodon.uno/@Simone98RC)
-- ✈️ Telegram — [@simonealecci](https://t.me/SimoneAlecci)
-- 💼 LinkedIn — [simone98rc](https://linkedin.com/in/Simone98RC)
-- 📷 Instagram — [@simone98rc](https://instagram.com/Simone98RC)
-- 📘 Facebook — [simone98rc](https://facebook.com/Simone98RC)
+- ✈️ Telegram — [@SimoneAlecci](https://t.me/SimoneAlecci)
+- 💼 LinkedIn — [@Simone98RC](https://linkedin.com/in/Simone98RC)
+- 📷 Instagram — [@Simone98RC](https://instagram.com/Simone98RC)
+- 📘 Facebook — [@Simone98RC](https://facebook.com/Simone98RC)
